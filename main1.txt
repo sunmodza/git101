@@ -1,5 +1,5 @@
 added new1.txt by user2s
-do you want to be hello
-do you want to live as a ier
+do you want to be a person
+do you want to live as a cs
 do you hahaha
 on branch
