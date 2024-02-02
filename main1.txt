@@ -1,6 +1,5 @@
 added new1.txt by user2s
-this is the thing that new and creative
-do you want to be
-do you want to live
+do you want to be hello
+do you want to live as a ier
 do you hahaha
 on branch
